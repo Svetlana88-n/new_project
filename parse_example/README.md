@@ -9,4 +9,5 @@
 
 Пример вывода:
 
-<img width="561" height="772" alt="image" src="https://github.com/user-attachments/assets/01c2c0eb-4ffb-43bd-8fed-551d77369227" />
+<img width="509" height="742" alt="image" src="https://github.com/user-attachments/assets/4a259c3c-1da6-4f11-95fc-9b9f462b753a" />
+
