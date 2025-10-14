@@ -3,5 +3,5 @@
 /workspace.xml
 /data
 *.parquet
+data_parquet
 .gitignore
-
