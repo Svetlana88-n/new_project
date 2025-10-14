@@ -5,3 +5,4 @@
 *.parquet
 data_parquet
 .gitignore
+/.idea/
