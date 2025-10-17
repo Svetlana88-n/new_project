@@ -6,3 +6,8 @@
 data_parquet
 .gitignore
 /.idea/
+creds.db
+*.db
+.env
+config.ini
+
