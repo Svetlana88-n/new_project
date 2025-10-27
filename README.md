@@ -57,4 +57,4 @@
 
 # EDA
 
-Посмотреть анализ данных можно перейдя по ссылке - (https://nbviewer.org/github/Svetlana88-n/new_project/blob/main/notebook/EDA.ipynb)
+Посмотреть анализ данных можно перейдя по ссылке - https://nbviewer.org/github/Svetlana88-n/new_project/blob/main/notebook/EDA.ipynb
