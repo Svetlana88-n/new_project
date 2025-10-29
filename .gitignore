@@ -10,4 +10,4 @@ creds.db
 *.db
 .env
 config.ini
-
+"__pycache__/" 
